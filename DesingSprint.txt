@@ -1,0 +1,41 @@
+🔥 Plano de Ação Ágil (Metodologia SCRUM Simplificado)
+💡 Prazo: até 14/03 (sexta-feira)
+📌 Objetivo: Desenvolver uma aplicação Laravel com sistema de login e controle de permissões, garantindo a entrega com código limpo e documentado.
+
+📅 Sprint 1: Configuração do Ambiente e Estrutura do Projeto (1 dia - 11/03)
+Tarefas:
+✅ Criar um repositório no GitHub para versionamento do projeto. 
+✅ Instalar Laravel (última versão estável).
+✅ Configurar o banco de dados MySQL/MariaDB.
+✅ Criar autenticação básica usando Laravel Breeze 
+
+
+📅 Sprint 2: Controle de Acesso e Permissões (1 dia - 12/03)
+Tarefas:
+✅ Instalar Laravel Permissions
+✅ Criar CRUD de usuários (Admin pode criar, editar, excluir e listar usuários).
+✅ Criar CRUD de roles (Admin pode definir roles para cada usuário).
+✅ Criar CRUD de permissões (Admin pode definir permissões para cada usuário).
+✅ Implementar AdminSeeder como usuário primordial da aplicaçao.
+✅ Implementar controle de acesso nas telas usando políticas e middleware.
+
+📅 Sprint 3: Implementação das Telas e Testes (1 dia - 13/03)
+Tarefas:
+✅ Criar as telas de Produtos, Categorias e Marcas (somente com título).
+✅ Implementar a lógica de controle de acesso a essas telas.
+✅ Testar toda a aplicação para garantir que o login e permissões funcionam.
+✅ Criar o arquivo README.md com instruções de instalação e uso.
+
+📅 Sprint Final: Revisão e Envio (14/03)
+Tarefas:
+✅ Revisar o código e garantir que está limpo e organizado.
+✅ Testar a aplicação mais uma vez.
+✅ Subir tudo no GitHub.
+✅ Enviar e-mail para a recrutadora com o link do repositório e os detalhes solicitados.
+
+🎯 Tecnologias Utilizadas:
+Laravel (Última versão)
+MySQL/MariaDB (Banco de dados)
+Laravel Breeze (Autenticação)
+Middleware (Controle de permissões)
+GitHub (Versionamento)
