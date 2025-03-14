@@ -93,4 +93,4 @@ Além de **Articles**, o projeto inclui as seções de **Products**, **Brands** 
 
 Este projeto foi criado com o objetivo de uma entrevista de trabalho para uma empresa. Todos os direitos reservados.
 
-Contato: amdresscavalcante@gmail.com
+Contato: amdresscavacal@gmail.com
