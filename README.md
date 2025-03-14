@@ -8,7 +8,7 @@ Este projeto foi desenvolvido com Laravel e foi projetado para gerenciar roles (
 1. **Clonar o projeto do GitHub para sua máquina local**:
    - Clone o repositório usando o comando:
      ```bash
-     git clone <url-do-repositorio>
+     git clone https://github.com/amdress/autoGestorPermissions.git
      ```
 2. **Instalar as dependências PHP**:
    - Este projeto requer que você instale as dependências PHP definidas no arquivo `composer.json`. Execute o seguinte comando para instalar todas as dependências necessárias:
