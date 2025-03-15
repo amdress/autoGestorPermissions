@@ -84,7 +84,7 @@ class RoleController extends Controller implements HasMiddleware
             'hasPermissions' => $hasPermissions,
             'role' => $role
         ]);
-        // if(){}
+        
 
     }
 

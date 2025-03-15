@@ -15,6 +15,7 @@
                 <div class="p-6 text-gray-900">
                   <form action="{{route('users.update', $user->id )}}" method="post">
                     @csrf
+                    @method('PUT')
                     <div>
                         <label for="" class="text-lg font-medium"> Name</label>
                         <div class="my-3">
